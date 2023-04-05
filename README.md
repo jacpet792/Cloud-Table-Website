@@ -1,2 +1,2 @@
-# cloud_table_website
+# Cloud-Table-Website
 Restaurant Reservation System
